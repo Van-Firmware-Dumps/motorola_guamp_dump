@@ -1,0 +1,21 @@
+## msi-user 11 RPXS31.Q2-58-17-7-3 ad9c24 release-keys
+- Manufacturer: motorola
+- Platform: bengal
+- Codename: guamp
+- Brand: motorola
+- Flavor: msi-user
+- Release Version: 11
+- Kernel Version: 4.19.157
+- Id: RPXS31.Q2-58-17-7-3
+RPXS31.Q2-58-17-7-3
+- Incremental: ad9c24
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: motorola/guamp_retail/guamp:11/RPXS31.Q2-58-17-7-3/ad9c24:user/release-keys
+- OTA version: 
+- Branch: msi-user-11-RPXS31.Q2-58-17-7-3-ad9c24-release-keys
+- Repo: motorola_guamp_dump

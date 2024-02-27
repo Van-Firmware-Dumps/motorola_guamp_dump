@@ -1,0 +1,4 @@
+product/app/TrichromeLibrary/TrichromeLibrary.apk filter=lfs diff=lfs merge=lfs -text
+product/app/MotoPhotoEditor/MotoPhotoEditor.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/GoogleDialer/GoogleDialer.apk filter=lfs diff=lfs merge=lfs -text
+system/system/framework/framework-res.apk filter=lfs diff=lfs merge=lfs -text
